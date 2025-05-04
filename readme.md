@@ -60,7 +60,7 @@ Future Improvements
 - Expand the dataset to analyze long-term trends.
 
 Author
-Harris Hussain <harrishussain2408@gmail.com>
+Abdullah Latif <abdullahlatif971@gmail.com>
 
 License
 This project is open-source and available under the MIT License.
